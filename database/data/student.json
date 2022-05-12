@@ -1,0 +1,22 @@
+[
+    {"course_id":1,"name":"Malinde Petrasso","email":"mpetrasso0@chicagotribune.com","github":"Porsche"},
+    {"course_id":2,"name":"Amye Perkis","email":"aperkis1@icq.com","github":"Mercury"},
+    {"course_id":3,"name":"Willi Yosevitz","email":"wyosevitz2@unc.edu","github":"Chevrolet2"},
+    {"course_id":4,"name":"Leroi Ashfold","email":"lashfold3@ted.com","github":"Chevrolet"},
+    {"course_id":5,"name":"Caryn Baert","email":"cbaert4@bandcamp.com","github":"Plymouth"},
+    {"course_id":6,"name":"Galvan Murrhardt","email":"gmurrhardt5@cyberchimps.com","github":"Mazda"},
+    {"course_id":1,"name":"Margaretta Mouton","email":"mmouton6@opera.com","github":"Mitsubishi"},
+    {"course_id":2,"name":"Junette Gedge","email":"jgedge7@ycombinator.com","github":"Buick"},
+    {"course_id":3,"name":"Ronald Almak","email":"ralmak8@blog.com","github":"Jeep"},
+    {"course_id":4,"name":"Isidora Verzey","email":"iverzey9@umn.edu","github":"Chevrolet3"},
+    {"course_id":5,"name":"Bar McClinton","email":"bmcclintona@sun.com","github":"Kia"},
+    {"course_id":6,"name":"Imelda Etridge","email":"ietridgeb@skype.com","github":"Ford"},
+    {"course_id":1,"name":"Cherie Demcik","email":"cdemcikc@a8.net","github":"Nissan"},
+    {"course_id":2,"name":"Wald Imore","email":"wimored@wikia.com","github":"BMW"},
+    {"course_id":3,"name":"Doria Colenutt","email":"dcolenutte@google.es","github":"Mercedes-Benz"},
+    {"course_id":4,"name":"Field Ferronier","email":"fferronierf@eventbrite.com","github":"Ford2"},
+    {"course_id":5,"name":"Jeanie Straw","email":"jstrawg@yandex.ru","github":"Mercedes-Benz2"},
+    {"course_id":6,"name":"Wyndham Lehon","email":"wlehonh@dell.com","github":"Chrysler"},
+    {"course_id":4,"name":"Nonna Moreman","email":"nmoremani@multiply.com","github":"Lexus"},
+    {"course_id":5,"name":"Gabby Bleackley","email":"gbleackleyj@loc.gov","github":"Land Rover"}
+]
